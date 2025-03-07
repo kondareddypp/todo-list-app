@@ -26,7 +26,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploying the application...'
-                // Add your deployment steps here, for example, deploying to a server or cloud
+                // Add your deployment steps here
             }
         }
     }
